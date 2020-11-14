@@ -1,3 +1,4 @@
+    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new.jpg" width="100%" />
 # Solana_send_message_to_wallet_via_instruction_data
 
 
@@ -24,3 +25,4 @@ $ npm run build:program-rust
 $ npm run server
 
 server started at http://localhost:8888
+    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new2.jpg" width="77%" />
