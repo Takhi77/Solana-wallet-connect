@@ -1,6 +1,10 @@
-    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new.jpg" width="100%" />
-# Solana_send_message_to_wallet_via_instruction_data
+<p align="center">
+  <a href="https://solana.com">
+    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new.jpg" />
+  </a>
+</p>
 
+### # Send message to solana wallet.
 
     On-chain send message by instruction data to Solana wallet via on Solana
 
@@ -25,4 +29,10 @@ $ npm run build:program-rust
 $ npm run server
 
 server started at http://localhost:8888
-    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new2.jpg" width="77%" />
+
+```
+<p align="center">
+  <a href="https://solana.com">
+    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new2.JPG" />
+  </a>
+</p>
