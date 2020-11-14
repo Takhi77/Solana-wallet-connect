@@ -4,12 +4,12 @@
   </a>
 </p>
 
-### # Send message to solana wallet.
+### Send message to solana wallet.
 
     On-chain send message by instruction data to Solana wallet via on Solana
 
 
-
+### How to run.
 
 ```bash
 $ npm i
