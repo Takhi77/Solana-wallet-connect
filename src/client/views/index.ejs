@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Guitar Inventory</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+    <div class="container">
+
+    <form action="/sendmessage/" method="post">
+    <label for="team_name">Enter message: </label>
+    <input id="team_name" type="text" name="name_field" value="Hi there">
+
+    <label for="team_name">wallet: </label>
+    <input id="wallet" type="text" name="wallet" value="ByNLLa3HZzpdBD5CU1Tfnd2rBUnNnqSFNEx5XcA6ipFM">
+    <input type="submit" value="OK">
+</form>
+
+
+    
+
+
+    <% if (name_field) { %>
+    <div >send message "<%= name_field%>" success to <%= account %></div>
+        <div >convert Instruction Data (Hex) to string to view message </div>
+        <a href="https://ibb.co/WcJ7Lqh"><img src="https://i.ibb.co/D72mZsJ/new.jpg" alt="new" border="0" /></a>
+       <!-- <div class="header"><%= name_field %></div> -->
+    <% } %>
+       
+        <!-- <a class="btn" href="/guitars"><i class="material-icons right">arrow_forward</i>Get started!</a> -->
+    </div>
+</body>
+</html>
