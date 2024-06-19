@@ -25,12 +25,6 @@ $ npm run server
 server started at http://localhost:8888
 
 ```
-<p align="center">
-  <a href="https://solana.com">
-    <img alt="Solana" src="https://raw.githubusercontent.com/googlebest/Solana_send_message_to_wallet_via_instruction_data/master/new2.JPG" />
-  </a>
-</p>
-
 
 ### To do list:
 * list message send and received by a wallet. 
